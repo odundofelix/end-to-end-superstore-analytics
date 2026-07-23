@@ -185,14 +185,14 @@ A preview is included in `/visuals/dashboard_preview.png`.
 # 📂 **Repository Structure**
 
 ```
-superstore-performance-analysis/
+end-to-end-superstore-analytics/
 │
 ├── data/
 │── sql/
 ├── notebooks/
 ├── visuals/
 ├── dashboard/
-└── README.md
+└── README.md/
 ```
 
 ---
