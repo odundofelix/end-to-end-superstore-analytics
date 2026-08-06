@@ -1,4 +1,4 @@
-# 🏷️ **U.S. Superstore Performance Analysis**
+# 🏷️ **Commercial Sales Performance Dashboard**
 
 ## 📘 **Project Overview**
 
